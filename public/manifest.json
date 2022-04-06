@@ -1,10 +1,10 @@
 {
   "short_name": "Recipes",
-  "name": "Recipes",
+  "name": "Food Recipes",
   "icons": [
     {
       "src": "/icon.png",
-      "sizes": "512x512 192x192",
+      "sizes": "192x192 512x512",
       "type": "image/png"
     }
   ],
